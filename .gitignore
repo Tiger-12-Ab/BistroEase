@@ -8,8 +8,7 @@ node_modules/
 dist/
 build/
 
-# Uploaded files
-uploads/
+
 
 # Logs
 *.log
